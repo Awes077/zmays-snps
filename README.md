@@ -1,2 +1,2 @@
 Zea Mays SNP Calling Project
-Project started April 19, 2017
+Project started April 18, 2017
